@@ -4,7 +4,8 @@ NetLogo Coronavirus Visualizer
   - presets environments are based on real statistics
     - according to statnews.com the rate of contraction fell to 11.5% after applying masks
     - according to statnews.com the rate of contraction rose to 21% when masks were removed
-
+    (Select a preset to reflect these statistics)
+    
 HOW TO USE:
 - click the green 'code' button at the top of the page and select download zip
 - extract the contents of the zip file
